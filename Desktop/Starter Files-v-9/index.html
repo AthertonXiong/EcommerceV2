@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="css/animate.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <title>Athey's Portfolio</title>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+</head>
+
+<body>
+
+  <div class="container navbar">
+    <header>
+      <div class="lgo">
+        <h1>Athey</h1>
+      </div>
+
+      <nav>
+        <ul>
+          <li><a href="#about">About Me</a></li>
+          <li><a href="#projects">My Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+  </div>
+
+
+
+  <div class="container main-info-section">
+    <div class="text">
+      <h1>
+        <span>H</span>
+        <span class="m-left">i</span>
+        <span class="m-left">,</span>
+        <br>
+        <span>I</span>
+        <span class="m-left">'</span>
+        <span class="m-left">m</span>
+        <span class="name">A</span>
+        <span class="m-left name">t</span>
+        <span class="m-left name">h</span>
+        <span class="m-left name">e</span>
+        <span class="m-left name">y</span>
+        <span class="m-left">,</span>
+        <br>
+        <span>P</span>
+        <span class="m-left">o</span>
+        <span class="m-left">r</span>
+        <span class="m-left">t</span>
+        <span class="m-left">f</span>
+        <span class="m-left">o</span>
+        <span class="m-left">l</span>
+        <span class="m-left">i</span>
+        <span class="m-left">o</span>
+      </h1>
+      <p>CSS / JavaScript / React</p>
+      <a href="#contact">Contact me</a>
+    </div>
+    <div class="profile-image">
+    <img src="img/profile-image.jpg" alt="">
+    </div>
+  </div>
+  </div>
+
+  <div class="container about" id="about">
+    <h1>About</h1>
+    <div class="about-me-info">
+      <p>I am an ambitious web developer who is a part of the Road to Hire 6 month program as a technology fellowship
+        learning Front-End programing language (HTML, CSS, Javascript and React.js) to Back-End languages (node.js).
+        Learning Professional development as well as working with mentors who works at Red Ventures. I'm currently
+        looking for opportunities in the technology industry. I believe hard work and dedication is one of the most
+        important qualities to find in an individual as well as a humble personality. </p>
+    </div>
+    <img src="img/dotted-shape.png" alt="">
+  </div>
+
+  <div class="container skills" id="skills">
+    <h1>Skills</h1>
+    <p class="skills-info">My skills are as followed as show on this bar for which it is rated.</p>
+    <div class="html">
+      <div class="tag-html">
+        <p>HTML</p>
+      </div>
+      <div class="progressbar">
+        <div class="bar-html"></div>
+      </div>
+    </div>
+    <div class="html">
+      <div class="tag-css">
+        <p>CSS</p>
+      </div>
+      <div class="progressbar">
+        <div class="bar-css"></div>
+      </div>
+    </div>
+    <div class="html">
+      <div class="tag-javascript">
+        <p>Javascript</p>
+      </div>
+      <div class="progressbar">
+        <div class="bar-javascript"></div>
+      </div>
+    </div>
+    <div class="html">
+      <div class="tag-react">
+        <p>React</p>
+      </div>
+      <div class="progressbar">
+        <div class="bar-react"></div>
+      </div>
+    </div>
+  </div>
+
+<!-- Showcasing My Projects -->
+  <div class="container work" id="work">
+    <h1>Projects</h1>
+    <div class="work-category">
+      <!-- <button id="all" class="active" onClick="showRequiredCategory(this)">All</button> -->
+      <button id="designing" class="active" onClick="showRequiredCategory(this)">Web Designing</button>
+      <button id="Apps" onClick="showRequiredCategory(this)">Apps</button>
+      <button id="projects" onClick="showRequiredCategory(this)">React Project</button>
+    </div>
+    <div class="category-designing showCategory">
+      <a href="https://hotelpro.netlify.app/"><img src="./img"></a>
+      <a href=""><img src=""></a>
+      <a href=""><img src=""></a>
+    </div>
+    <div class="category-designing hideCategory"></div>
+      <a href="https://wpa.netlify.app/"><img src="./img/weatherApp copy.png"></a>
+      <a href=""><img src=""></a>
+      <a href=""><img src=""></a>
+      <a href=""><img src=""></a>
+    </div>
+    <div class="category-designing hideCategory"></div>
+      <a href=""><img src=""></a>
+      <a href=""><img src=""></a>
+      <a href=""><img src=""></a>
+    </div>
+  </div>
+
+  <div class="container contact" id="contact">
+    <h1>Contact</h1>
+    <form>
+      <input type="text" name="name" placeholder="Full Name">
+      <input type="email" placeholder="Email">
+      <input type="email" placeholder="PortfolioPersonalemail@example.com" disabled>
+      <textarea name="message" cols="30" rows="10" placeholder="Message"></textarea>
+      <input type="submit">
+    </form>
+  </div>
+
+
+  <footer>
+    <hr>
+    <footer class="footer">
+      <a href="https://www.facebook.com/">Facebook
+        <i class="fab fa-facebook"></i>
+      </a>
+      <a href="https://www.linkedin.com/">Linkedin
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="https://www.instagram.com/">Instagram
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="https://www.youtube.com/">Youtube
+        <i class="fab fa-youtube"></i>
+      </a>
+      <p>Copyright @ 2020 | All Rights Reserved.</p>
+    </footer>
+  </footer>
+
+
+
+
+
+
+  <script src="js/ScrollMagic.min.js"></script>
+  <script src="js/animation.gsap.min.js"></script>
+  <script src="js/TimelineLite.min.js"></script>
+  <script src="js/TweenMax.min.js"></script>
+  <script src="js/CSSPlugin.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>

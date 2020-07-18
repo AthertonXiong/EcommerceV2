@@ -1,0 +1,87 @@
+[
+        {
+            "id": 1,
+            "img": "./ProductImg/diva.jpg",
+            "title": "Project Diva Mega Mix",
+            "price": 39.99,
+            "description": "Mix it up and choose from two playable modes: traditional button control-based Arcade Mode or the new motion control-based Mix Mode. "
+        },
+        {
+            "id": 2,
+            "img": "./ProductImg/DragonQuest11.jpg",
+            "title": "Dragon Quest XI S: Echoes of an Elusive Age Definitive Edition - Nintendo Switch",
+            "price": 59.99,
+            "description": "You are the luminary, the hunted hero who will protect the land from destruction in the latest RPG from the iconic Dragon quest series. "
+        },
+        {
+            "id": 3,
+            "img": "./ProductImg/FFVlll.jpg",
+            "title": "Final Fantasy VIII Remastered ",
+            "price": 19.99,
+            "description": "Widely cherished, FINAL FANTASY VIII Remastered casts unlikely heroes into a war to save the world. "
+        },
+        {
+            "id": 4,
+            "img": "./ProductImg/finalfantasy7remake.jpg",
+            "title": "Final Fantasy VII Remake Deluxe Edition",
+            "price": 79.99,
+            "description": "A spectacular reimagining of one of the most visionary games ever. The first entry in a multi part saga, delivering a level of depth inconceivable for the original game. "
+        },
+        {
+            "id": 5,
+            "img": "./ProductImg/fireEmblem3Houses.jpg",
+            "title": "Fire Emblem Three Houses",
+            "price": 59.99,
+            "description": "War is coming to the continent of Fódlan. Here, order is maintained by the Church of Seiros, which hosts the prestigious Officer’s Academy within its headquarters."
+        },
+        {
+            "id": 6,
+            "img": "./ProductImg/Kingdom.png",
+            "title": "Kingdom hearts 3",
+            "price": 40.00,
+            "description": "Kingdom Hearts III tells the story of the power of friendship and light vs. darkness as Sora and his friends embark on a perilous adventure."
+        },
+        {
+            "id": 7,
+            "img": "./ProductImg/octopathtraveler.jpg",
+            "title": "Octopath-Traveler-Nintendo-Switch",
+            "price": 59.99,
+            "description": "Eight travelers. Eight adventures. Eight roles to play in a new world brought to life by Square Enix. Explore each traveler's story and use their abilities in and out of battle."
+        },
+        {
+            "id": 8,
+            "img": "./ProductImg/runefactory4.jpg",
+            "title": "Rune Factory 4 Special Archival Edition - Nintendo Switch",
+            "price": 59.99,
+            "description": "Rune Factory 4 Special marks the return of the beloved entry in the popular STORY OF SEASONS spinoff series that combines farming with dungeon adventuring, as the series makes its debut on Nintendo Switch with upgraded HD graphics, a new “Newlywed Mode,” and additional cut-scenes."
+        },
+        {
+            "id": 9,
+            "img": "./ProductImg/talesofarise.jpg",
+            "title": "Tales of Arise",
+            "price": 59.99,
+            "description": "Challenge the Fate That Binds You. On the planet Dahna, reverence has always been given to Rena, the planet in the sky, as a land of the righteous and divine."
+        },
+        {
+            "id": 10,
+            "img": "./ProductImg/trialsofmana.jpg",
+            "title": "Trials of Mana-Playstaion 4",
+            "price": 49.99,
+            "description": "Revamped 3D graphics Trials of Mana is Full 3D remake of the third game in the Mana series, originally released in Japan as Seiken Densetsu 3 Pick Your party."
+        },
+        {
+            "id": 11,
+            "img": "./ProductImg/xenoblade2.jpg",
+            "title": "Xenoblade Chronicles 2 Special Edition",
+            "price": 99.99,
+            "description": "Lost in a sea of clouds, entire civilizations rest on the backs of Titans. As the giants march toward death, the last hope is a scavenger named Rex-and Pyra, a living weapon known as a Blade."
+        },
+        {
+            "id": 12,
+            "img": "./ProductImg/zelda.jpg",
+            "title": "The Legend of Zelda Breath Of The Wild",
+            "price": 59.99,
+            "description": "Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series."
+        }
+        
+]
